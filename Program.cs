@@ -7,9 +7,9 @@ using Newtonsoft.Json;
 using System.Text;
 
 // ==================== CONFIG ====================
-const string BOT_TOKEN = "YOUR_BOT_TOKEN_HERE";
+const string BOT_TOKEN = "8968960331:AAFoM25cMS6-Ug_NU2-iCS8NIVILwG4WG5o";
 const string API_URL = "https://shahrint.com/api/business/set";
-const long ADMIN_TELEGRAM_ID = 123456789; // آیدی تلگرام خودت
+const long ADMIN_TELEGRAM_ID = siradv; // آیدی تلگرام خودت
 const string OPERATORS_FILE = "operators.json";
 // ================================================
 
